@@ -72,5 +72,12 @@ a {
     justify-content: space-evenly;
   }
 
+  .flex-wrap {
+      flex-wrap: wrap-reverse; 
+    }
+    
+    .flex-basis-50 {
+      flex-basis: 50%; 
+    }
   
-  
+
